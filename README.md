@@ -16,7 +16,6 @@ I love learning new technologies and the process of converting PSD or Figma Desi
 - 🤔 I’m learning python to update my tool kit.
 - 📫 How to reach me: mgtshomba@gmail.com.
 - ⚡ Fun fact: BIG Fifa fan.
-  <br>
 
 # <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png" width="30"> **Tool kit**
 

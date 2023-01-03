@@ -1,4 +1,4 @@
-# **Hi there, I am Mutombo** <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+# **Hi there<img src="https://media.giphy.com/media/IfsByYYHyNlnINT46g/giphy.gif" width="30"> I am Mutombo** <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
 ## **About me** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
@@ -16,8 +16,7 @@ I love learning new technologies and the process of converting PSD or Figma Desi
 - 🤔 I’m learning python to update my tool kit.
 - 📫 How to reach me: mgtshomba@gmail.com.
 - ⚡ Fun fact: BIG Fifa fan.
-
-<br>
+  <br>
 
 # <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png" width="30"> **Tool kit**
 
@@ -36,3 +35,5 @@ I love learning new technologies and the process of converting PSD or Figma Desi
 [![shopify liquid](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](#)
 
 <br />
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeMutombo&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
